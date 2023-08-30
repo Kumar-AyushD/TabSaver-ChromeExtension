@@ -9,6 +9,8 @@ The **Recent Tabs Chrome Extension** is a simple browser extension that allows u
 - Allows users to reopen any tab from the closed tabs history.
 - Utilizes local storage to store tab information.
 
+<img  src="https://github.com/Kumar-AyushD/TabSaver-ChromeExtension/blob/main/ex.png" width="500" height="500" />
+
 ## Usage
 
 1. Whenever you close a tab, the extension will automatically save the tab's information to the local storage.
